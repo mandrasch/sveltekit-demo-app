@@ -1,3 +1,9 @@
+This is the official demo app which can be installed via `npm create svelte@latest my-app`.
+
+I just created this demo repository to look up example code.
+
+See https://kit.svelte.dev/ for all information.
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
